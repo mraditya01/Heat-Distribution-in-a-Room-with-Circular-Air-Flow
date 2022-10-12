@@ -2,7 +2,7 @@
 ### Numerical Analysis Project
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mraditya01/Heat-Distribution-in-a-Room-with-Circular-Air-Flow/main/./pictures/Result (2).gif" width=600 height=400/>
+  <img src="https://raw.githubusercontent.com/mraditya01/Heat-Distribution-in-a-Room-with-Circular-Air-Flow/main/./pictures/Result (4).png" width=600 height=400/>
 </p> 
 
 
