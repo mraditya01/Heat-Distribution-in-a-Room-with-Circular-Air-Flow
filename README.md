@@ -1,8 +1,8 @@
-# Heat Distribution in a Room with Circula Air Flow
+# Heat Distribution in a Room with Circular Air Flow
 ### Numerical Analysis Project
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mraditya01/Heat-Distribution-in-a-Room-with-Circular-Air-Flow/main/./pictures/Result (4).png" width=600 height=400/>
+  ![Result (2)](https://user-images.githubusercontent.com/59830001/195273522-51d09eb4-184b-440f-bac9-2524e8aadfdd.gif)
 </p> 
 
 
@@ -13,6 +13,7 @@ In this repository, we try to use U-Net to deal with the singing voice separatio
 Testing
 ---
 We prepare the pre-trained model here [[door](https://drive.google.com/drive/folders/1khv42R9Wv8fSy7TJS5KfDn7p_T6Usx1I?usp=sharing)]. For the pre-trained model, we train for around 80000 epoch. First, download the model and place into the current folder. Next, since the model can only deal with spectrogram, you should convert the song step-by-step:
+
 1. Convert the whole song as spectrogram for the specific folder:
 ```
 python3 data.py --src <SONG_FOLDER> --tar test_data
