@@ -13,6 +13,7 @@ In this repository, we try to use U-Net to deal with the singing voice separatio
 Testing
 ---
 We prepare the pre-trained model here [[door](https://drive.google.com/drive/folders/1khv42R9Wv8fSy7TJS5KfDn7p_T6Usx1I?usp=sharing)]. For the pre-trained model, we train for around 80000 epoch. First, download the model and place into the current folder. Next, since the model can only deal with spectrogram, you should convert the song step-by-step:
+![Result (2)](https://user-images.githubusercontent.com/59830001/195273681-3ca26031-86f8-4953-88c0-3754f6e3702c.png)
 
 1. Convert the whole song as spectrogram for the specific folder:
 ```
