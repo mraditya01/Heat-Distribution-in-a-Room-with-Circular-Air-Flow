@@ -1,5 +1,5 @@
 # Heat Distribution in a Room with Circular Air Flow
-### Numerical Analysis Project
+### 2021 Numerical Analysis Project
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59830001/195273812-a1fd62b6-3461-464c-8b56-098a0ac1275e.gif" width="50%" height="50%"/>
