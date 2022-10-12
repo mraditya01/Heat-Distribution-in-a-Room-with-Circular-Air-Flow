@@ -2,7 +2,7 @@
 ### Numerical Analysis Project
 
 <p align="center">
-  ![Result (2)](https://user-images.githubusercontent.com/59830001/195273522-51d09eb4-184b-440f-bac9-2524e8aadfdd.gif)
+![Result (2)](https://user-images.githubusercontent.com/59830001/195273522-51d09eb4-184b-440f-bac9-2524e8aadfdd.gif)
 </p> 
 
 
