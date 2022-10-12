@@ -2,8 +2,9 @@
 ### 2021 Numerical Analysis Project
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59830001/195273812-a1fd62b6-3461-464c-8b56-098a0ac1275e.gif" width="50%" height="50%"/>
+  <img src="https://user-images.githubusercontent.com/59830001/195283911-22bbc192-9bb1-492c-8f0b-db23d87d6359.gif" width="50%" height="50%"/>
 </p> 
+
 
 Introduction
 ---
@@ -32,11 +33,11 @@ Result
 ---
 1. **Result on Different Location**
 
- <img src="https://user-images.githubusercontent.com/59830001/195276270-2ca93af7-2943-448b-94ac-09ebd752e2c2.png" width="45%" height="45%"/>  <img src="https://user-images.githubusercontent.com/59830001/195276307-ced0111e-a8f9-4ec5-beda-879c00fa58e3.png" width="50%" height="50%"/> 
+ <img src="https://user-images.githubusercontent.com/59830001/195283911-22bbc192-9bb1-492c-8f0b-db23d87d6359.gif" width="45%" height="45%"/>  <img src="https://user-images.githubusercontent.com/59830001/195284643-b449801c-1b78-47af-b331-855b3a0d777e.gif" width="45%" height="45%"/> 
 
 
 3. **Result on Different A/C Heat Flow**
 
- <img src="https://user-images.githubusercontent.com/59830001/195276331-bf5e2ff3-d605-406a-b012-c696713e6c88.png" width="45%" height="45%"/>  <img src="https://user-images.githubusercontent.com/59830001/195276335-371c4d4c-67ba-4ca1-8841-8a03ea4545ec.png" width="50%" height="50%"/> 
+ <img src="https://user-images.githubusercontent.com/59830001/195284190-f55023c0-d35e-4234-80c2-6ae65351650a.gif" width="45%" height="45%"/>  <img src="https://user-images.githubusercontent.com/59830001/195284214-03129555-be23-448a-a842-b2ea944d6281.gif" width="45%" height="45%"/> 
 
 
