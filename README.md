@@ -40,4 +40,6 @@ Result
 
  <img src="https://user-images.githubusercontent.com/59830001/195284190-f55023c0-d35e-4234-80c2-6ae65351650a.gif" width="45%" height="45%"/>  <img src="https://user-images.githubusercontent.com/59830001/195284214-03129555-be23-448a-a842-b2ea944d6281.gif" width="45%" height="45%"/> 
 
-
+Run
+---
+Run 'Final.m' or 'Final_jet.m' using MATLAB.
